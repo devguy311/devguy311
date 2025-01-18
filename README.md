@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Winston Brady
+- 👋 Hi, I’m Winston Siu
 - 👀 I’m experienced in Solidity
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Solidity
